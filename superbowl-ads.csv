@@ -1,0 +1,563 @@
+Year,Product Type,Product/Title
+1969,Car,"Chrysler ""Scuba Diver""[4]"
+1970,Car,"Pontiac""Humbler"""
+1975,Security,"Master Lock""Rifle"""
+1976,Copy,"Xerox""Monks"""
+1979,Soft drink,"Coca-Cola""Hey Kid, Catch!"""
+1981,Camera,"Polaroid""Now with a Flash"""
+1982,Computer,"RadioShack""Color Computer"""
+1982,Restaurant,"McDonald's""Hopscotch"""
+1984,Computer,"Apple Inc.""1984"""
+1984,Computer,"Atari""Get Started"""
+1984,Beer,"Miller Lite""Train"""
+1984,Security,"Master Lock""The Doubters"
+1988,Food,Doritos tortilla chips
+1989,Beer,Budweiser
+1990,Car,"Nissan""Turbocharged Dream"""
+1990,Credit card,"American Express""The Race"""
+1992,Soft Drink,"Pepsi""Cindy Crawford"""
+1993,Restaurant,"McDonald's""Showdown"""
+1993,Footwear,"Nike""Hare Jordan"""
+1993,Clothing,"Lee""Inhale"""
+1993,Clothing,"Lee""The Date"""
+1993,Car,"Subaru Impreza""Teaser"""
+1993,Car,"Honda Prelude""Slingshot"""
+1994,Car,Jeep
+1994,Beer,Budweiser
+1994,Car,Jeep Grand Cherokee
+1994,Clothing,No Fear
+1996,Film,Independence Day
+1996,Restaurant,"McDonald's""Baby Swing"""
+1997,Car,"Nissan""Pigeons"""
+1997,Film,Dante's Peak
+1997,Film,The Lost World: Jurassic Park
+1997,Film,The Saint
+1997,Food,"Eggo""Grandma"""
+1997,Food,"Lays""Nuzzle and Nibble"""
+1997,Food,"Lays""Party"""
+1997,Soft drink,"Pepsi""Darth Vader"""
+1998,Beer,"Bud Light""Chicken Pool"""
+1998,Beer,"Bud Light""Shopping"""
+1998,Beer,"Budweiser""Master Plan"""
+1998,Car,"Pontiac""ACME Pontiac"""
+1998,Computer,"Intel""Mystery"""
+1998,Credit card,"Visa""Elephant"""
+1998,Film,Armageddon
+1998,Film,Lost in Space
+1998,Film,Mercury Rising
+1998,Film,Sphere
+1998,Film,The Mask of Zorro
+1998,Film,The Wedding Singer
+1998,Food,"Doritos""Laundromat"""
+1998,Food,"Hormel""Bold Innovations"""
+1998,Food,"Tabasco Sauce""Mosquito"""
+1998,Mail,"FedEx""We Apologize"""
+1998,Restaurant,"Pizza Hut""Elvis"""
+1998,Shoes,"Hilfiger""Have Some Fun"""
+1998,Soft drink,"Pepsi""Mosquito"""
+1998,Soft drink,"Pepsi""Goose"""
+1998,Sports,"NFL""Anthony"""
+1998,Tire,"Michelin""Drill"""
+1998,Website,"Autobytel""Pajamas"""
+1999,Beer,"Bud Light""Paper or Plastic"""
+1999,Beer,"Budweiser""Dalmatians"""
+1999,Beer,"Budweiser""Lashing"""
+1999,Beer,"Budweiser""Lobster"""
+1999,Credit card,"MasterCard""Toons"""
+1999,Computer,"Apple Inc.""HAL"""
+1999,Film,Austin Powers: The Spy Who Shagged Me
+1999,Film,The Corruptor
+1999,Film,Ed TVLife
+1999,Film,8MM
+1999,Film,The Matrix
+1999,Film,"Mulan""Groundhog Day"""
+1999,Film,The Mummy
+1999,Film,October Sky
+1999,Film,True Crime
+1999,Film,Wild Wild West
+1999,Food,"Doritos""Smokin"""
+1999,Mail,"FedEx""Stanley Cup"""
+1999,Restaurant,"Pizza Hut""New Yorker"""
+1999,Sports,"WWF""HQ"""
+1999,Website,"Buy.com""Aliens"""
+1999,Website,HotJobs.com
+1999,Website,"Monster.com""When I Grow Up"""
+2000,Beer,"Bud Light""Elevator"""
+2000,Beer,"Bud Light""Cat"""
+2000,Beer,"Budweiser""Photo Shoot"""
+2000,Beer,"Budweiser""Which Game?"""
+2000,Beer,"Budweiser""Rex's Motivation"""
+2000,Candy,"M&M's""Sexy Girl"""
+2000,Credit card,"Visa""Swimmers"""
+2000,Film,Gladiator
+2000,Film,Mission to Mars
+2000,Film,Titan A.E.
+2000,Mail,"FedEx""Combat Rangers"""
+2000,Mail,"FedEx""The Lollipop Guild"""
+2000,TV,"Oxygen""Baby Girl Power"""
+2000,Website,"AutoTrader.com""I Need a Car"""
+2000,Website,"Britannica.com[12]""Untitled"""
+2000,Website,"Computer.com""Mike and Mike"""
+2000,Website,"e1040.com""Charity"""
+2000,Website,"EDS""Cat Herders"""
+2000,Website,"Epidemic.com""Bathroom"""
+2000,Website,"E*Trade""Wasted 2 Million"""
+2000,Website,"E*Trade""Out the Wazoo"""
+2000,Website,"E*Trade""Basketball Prodigy"""
+2000,Website,"e-stamp.com""Time Saving Tips"""
+2000,Website,"Hotjobs.com""Negotiations"""
+2000,Website,"Kforce""Looking for a Job"""
+2000,Website,"LastMinuteTravel.com""Tornado"""
+2000,Website,"LifeMinders.com""The Worst Commercial"""
+2000,Website,"MicroStrategy""Fraud"""
+2000,Website,"MicroStrategy""Stock Alert"""
+2000,Website,"Monster.com""The Road Less Travelled"""
+2000,Website,"OnMoney.com""Paper Monster"""
+2000,Website,"Netpliance""Webhead"""
+2000,Website,"OurBeginning.com""Invites"""
+2000,Website,"Pets.com""If You Leave Me Now"""
+2000,Website,"WebMD""Ali"""
+2001,Beer,"Budweiser""We Are Not Alone"""
+2001,Beer,"Budweiser""What Are You Doing?"""
+2001,Film,A Knight's Tale
+2001,Film,Exit Wounds
+2001,Film,Hannibal
+2001,Film,Swordfish
+2001,Film,The Fast and the Furious
+2001,Film,The Mummy Returns
+2001,Food,"George Foreman Grill""Colors"""
+2001,Gaming,"PlayStation 2""Future"""
+2001,Soft drink,"Pepsi""The Best Pepsi Ad Ever"""
+2001,Soft drink,"Pepsi""Bob Dole"""
+2001,Soft drink,"Pepsi""Rollercoaster"""
+2001,Website,"E*Trade""Ghost Town"""
+2002,Beer,"Budweiser""Clydesdale Respect"""
+2002,Film,Austin Powers in Goldmember
+2002,Film,Blade II
+2002,Film,Collateral Damage
+2002,Film,Spider-Man
+2002,Food,"Lipton Brisk""Puppet Strike"""
+2002,Gaming,Madden NFL 2002
+2002,Soft drink,"Pepsi""Now and Then""[14]"
+2002,Soft drink,"Pepsi""The Joy of Pepsi"""
+2002,Website,"Yahoo!""Dolphin"""
+2003,Film,Anger Management
+2003,Film,Bad Boys II
+2003,Film,Bruce Almighty
+2003,Film,Charlie's Angels: Full Throttle
+2003,Film,Daredevil
+2003,Film,Gods and Generals
+2003,Film,Hulk
+2003,Film,The Matrix Reloaded
+2003,Film,Tears of the Sun
+2003,Film,Terminator 3: Rise of the Machines
+2003,Mail,"FedEx""Cast Away"""
+2004,Beer,"Budweiser""Donkey"""
+2004,Car,"Ford""The One"""
+2004,Gaming,"PlayStation 2""Going Back"""
+2004,Film,50 First Dates
+2004,Film,Hidalgo
+2004,Film,Starsky & Hutch
+2004,Film,Secret Window
+2004,Film,The Alamo
+2004,Film,Troy
+2004,Film,Van Helsing
+2004,Potato chips,"Lay's""Dentures"""
+2004,PSA,"Truth ""Shards O'Glass"""
+2004,Credit card,"MasterCard""Errands"""
+2004,Soft drink,"Pepsi""Bear's Disguise"""
+2004,Soft drink,"Pepsi""Hendrix"""
+2005,Beer,"Budweiser""Audition"""
+2005,Beer,"Budweiser""Welcome Home"""
+2005,Beer,"Heineken""Beer Run"""
+2005,Car,"Ford""Gang"""
+2005,Credit card,MastercardIcons
+2005,Film,Batman Begins
+2005,Film,Be Cool
+2005,Film,Constantine
+2005,Film,Hitch
+2005,Film,Robots
+2005,Film,Sahara
+2005,Film,The Pacifier
+2005,Film,War of the Worlds
+2005,Soft drink,"Diet Pepsi""The Diet Pepsi Truck"""
+2005,Technology,OlympusLet Your Pictures Groove
+2006,Film,16 Blocks
+2006,Film,Cars
+2006,Film,Mission: Impossible III
+2006,Film,Pirates of the Caribbean: Dead Man's Chest
+2006,Film,Poseidon
+2006,Film,Running Scared
+2006,Film,The Shaggy Dog
+2006,Film,V for Vendetta
+2008,Beer,"Bud Light""Cavemen"""
+2008,Beer,"Budweiser""Training"""
+2008,Car,"Audi""The Godfather"""
+2008,Film,Iron Man
+2008,Film,Jumper
+2008,Film,The Chronicles of Narnia: Prince Caspian
+2008,Film,Wanted
+2008,Film,You Don't Mess with the Zohan
+2008,Soft drink,"Coca-Cola""It's Mine"""
+2008,Soft drink,"SoBe""Thriller"""
+2008,Website,"E*Trade""Baby"""
+2008,Website,"E*Trade""Clown"""
+2009,Beer,"Bud Light""Conan"""
+2009,Beer,"Bud Light""Drinkability"""
+2009,Beer,"Budweiser""Fetch"""
+2009,Beer,"Budweiser""True Love"""
+2009,Beer,"Miller Lite""Highlight"""
+2009,Car,"Audi""The Chase"""
+2009,Car,"Hyundai Motor Company""Epic Lap"""
+2009,Film,G.I. Joe: The Rise of Cobra
+2009,Film,Land of the Lost
+2009,Film,Monsters vs. Aliens
+2009,Film,Star Trek
+2009,Film,Transformers: Revenge of the Fallen
+2009,Film,Year One
+2009,Food,"Doritos""Crystal Ball"""
+2009,Food,"Doritos""The Power of Crunch"""
+2009,Manufacturing,"Bridgestone""The Potato Heads"""
+2009,Soft drink,"Pepsi""Forever Young"""
+2009,Soft drink,"Pepsi""I'm Good"""
+2009,Soft drink,"Pepsi""PepSuber"""
+2009,Restaurant,"Denny's""Mafia"""
+2009,Website,"E*Trade""Singing Baby"""
+2010,Beer,"Bud Light""Beer House"""
+2010,Beer,"Bud Light""Meteor"""
+2010,Beer,"Bud Light""T-Pain Voice"""
+2010,Beer,"Budweiser""Friends"""
+2010,Beer,"Budweiser""Human Bridge"""
+2010,Candy,"Snickers""Betty White"""
+2010,Car,"Dodge Charger""Woman Are Shrill"""
+2010,Car,"Hyundai""Creation"""
+2010,Car,"Hyundai""2020"""
+2010,Car,"Kia Motors""How You Like Me Now"""
+2010,Car,"Volkswagen""Punch Dub Days"""
+2010,Film,The Back-Up Plan
+2010,Film,Iron Man 2
+2010,Film,The Last Airbender
+2010,Film,Prince of Persia: The Sands of Time
+2010,Film,Robin Hood
+2010,Film,Shutter Island
+2010,Film,The Wolfman
+2010,Food,"Doritos""Boyfriend"""
+2010,Food,"Doritos""Dog"""
+2010,Food,"Doritos""Funeral"""
+2010,Food,"Doritos""Tim"""
+2010,Manufacturing,"Bridgestone""Killer Whale"""
+2010,Mobile phone,"Boost Mobile""Shuffle"""
+2010,Restaurant,"McDonald's""Check This"""
+2010,Shoes,"Skechers""Shape-Ups"""
+2010,Soft drink,"Coca-Cola""Africa"""
+2010,Soft drink,"Coca-Cola""The Simpsons"""
+2010,TV show,Late Show with David Letterman
+2010,TV show,NFL Full Contact
+2010,Video Game,Dante's Inferno
+2010,Website,"cars.com""Smart Kid #2"""
+2010,Website,"E*Trade""Date"""
+2010,Website,"Focus on the Family.com""Miracle Baby"""
+2010,Website,"GoDaddy""Massage"""
+2010,Website,"Google""Searching"""
+2010,Website,"Monster.com""Talented Beaver"""
+2011,Beer,"Bud Light""Hack Job"""
+2011,Car,"Audi""Old Luxury"""
+2011,Car,"Chevrolet""Elderly Home"""
+2011,Car,"Chevrolet""Miss Evelyn"""
+2011,Car,"Chrysler 200""Born of Fire"""
+2011,Car,"Ford""Race"""
+2011,Car,"Volkswagen""Black Beetle"""
+2011,Car,"Volkswagen""The Force"""
+2011,Film,Captain America: The First Avenger
+2011,Film,Cowboys & Aliens
+2011,Film,Pirates of the Caribbean: On Stranger Tides
+2011,Film,Thor
+2011,Film,Transformers: Dark of the Moon
+2011,Food,"Doritos""Love"""
+2011,Food,"Doritos""Teasing"""
+2011,Soft drink,"Pepsi""Love Hurts"""
+2011,Store,"Best Buy""Upgrades"""
+2012,Beer,"Bud Light""Factory"""
+2012,Beer,"Budweiser""The End of Prohibition"""
+2012,Beer,"Budweiser""Eternal Optimism"""
+2012,Candy,"M&M's""Just My Shell"""
+2012,Car,"Audi""Vampire Party"""
+2012,Car,"Chrysler""Halftime in America"""
+2012,Car,"Fiat""Seduction"""
+2012,Car,"Hyundai""Cheetah"""
+2012,Film,Act of Valor
+2012,Film,The Avengers
+2012,Film,Battleship
+2012,Film,John Carter
+2012,Film,The Lorax
+2012,Soft drink,"Pepsi""The King's Court"""
+2012,Store,"Best Buy""Phone Innovators"""
+2013,Car,"Audi""Prom"""
+2013,Truck,"Dodge Ram""So God Made a Farmer"""
+2013,Film,Fast and Furious 6
+2013,Film,Iron Man 3
+2013,Film,Oz the Great and Powerful
+2013,Film,Star Trek Into Darkness
+2013,Food,Wonderful Pistachios
+2014,Beer,Budweiser
+2014,Car,Audi
+2014,Car,Kia K900
+2014,Car,Volkswagen
+2014,Car accessories,WeatherTech
+2014,Food,Doritos
+2014,Store,RadioShack
+2014,Soft drink,Coca-Cola
+2015,Adhesives,Loctite
+2015,Antifungal medication,"Jublia """"""Tackle It"""""""
+2015,Beer,"Budweiser """"""Lost Dog"""""""
+2015,Beer,"Bud Light """"""Coin"""""""
+2015,Candy,"Skittles """"""It Will be Settled"""""""
+2015,Candy,"Snickers """"""The Brady Bunch"""""""
+2015,Car,"BMW """"""Newfangled Idea"""""""
+2015,Car,"Chevrolet """"""Super Bowl Blackout"""""""
+2015,Car,"Dodge """"""Wisdom"""""""
+2015,Car,"Fiat """"""The Fiat Blue Pill"""""""
+2015,Car,"Jeep """"""Beautiful Lands"""""""
+2015,Car,"Lexus """"""Let's Play"""""""
+2015,Car,"Kia Motors """"""The Perfect Getaway"""""""
+2015,Car,"Mercedes-Benz """"""Fable"""""""
+2015,Car,"Nissan """"""With Dad"""""""
+2015,Car,"Toyota """"""How Great I Am"""""""
+2015,Car,"Toyota """"""My Bold Dad"""""""
+2015,Car accessories,"WeatherTech """"""America At Work"""""""
+2015,Credit card,"Discover """"""Surprise"""""""
+2015,Feminine care products,"Always """"""Like a Girl"""""""
+2015,Film,Avengers: Age of Ultron 
+2015,Film,The Divergent Series: Insurgent 
+2015,Film,Fifty Shades of Grey 
+2015,Film,Furious 7 
+2015,Film,Jurassic World 
+2015,Film,"Minions """"""Super Fans"""""""
+2015,Film,Pitch Perfect 2 
+2015,Film,Ted 2 
+2015,Film,Terminator Genisys 
+2015,Film,Tomorrowland 
+2015,Food,"Avocados From Mexico """"""First Draft Ever"""""""
+2015,Food,"Doritos """"""Middle Seat"""""""
+2015,Food,"Doritos """"""When Pigs Fly"""""""
+2015,Food,"McDonald's """"""Pay With Lovin'"""""""
+2015,Gaming,"Clash of Clans """"""Revenge"""""""
+2015,Gaming,"Game of War: Fire Age """"""Who I Am"""""""
+2015,Insurance,"Esurance """"""Sorta Pharmacy"""""""
+2015,Insurance,"Esurance """"""Sorta Your Mom"""""""
+2015,Insurance,"Nationwide """"""Boy"""""""
+2015,Insurance,"Nationwide """"""Invisible Mindy"""""""
+2015,Lingerie,Victoria's Secret 
+2015,Phone,"Sprint """"""Super Apology"""""""
+2015,Phone,"T-Mobile """"""#KimsDataStash"""""""
+2015,Phone,"T-Mobile """"""One Upped"""""""
+2015,Phone accessory,"Mophie """"""All-Powerless"""""""
+2015,Service,"No More """"""30 Second"""""""
+2015,Service,"Weight Watchers """"""All You Can Eat"""""""
+2015,Shoes,"Skechers """"""Hall"""""""
+2015,Skincare products,"Dove+Men """"""Real Strength"""""""
+2015,Soft Drink,"Coca-Cola """"""Make It Happy"""""""
+2015,Software,"TurboTax """"""Boston Tea Party"""""""
+2015,Technology,"Microsoft """"""Braylon O'Neill"""""""
+2015,Website,"Wix.com """"""It's That Easy"""""""
+2015,Website,"GoDaddy.com """"""Working"""""""
+2015,Website,"Squarespace """"""Om"""""""
+2016,Product type,Advertiser/Product Title
+2016,Beer,"Bud Light """"""Bud Light Party"""""""
+2016,Car,"Jeep """"""4x4ever"""""""
+2016,Car,"Jeep """"""Portraits"""""""
+2016,Car,"Hyundai Genesis """"""First Date"""""""
+2016,Car,"Honda Ridgeline """"""A New Truck to Love"""""""
+2016,Car accessories,"WeatherTech """"""Resources"""""""
+2016,Clothing,"Marmot """"""Love the Outside"""""""
+2016,Food,"Doritos """"""Ultrasound"""""""
+2016,Food,"Doritos """"""Doritos Dogs"""""""
+2016,Food,"Heinz """"""Weiner Stampede"""""""
+2016,Food,"Skittles """"""Portrait"""""""
+2016,Film,10 Cloverfield Lane 
+2016,Film,Deadpool 
+2016,Film,Captain America: Civil War 
+2016,Film,Independence Day: Resurgence 
+2016,Film,Jason Bourne 
+2016,Film,The Jungle Book 
+2016,Film,The Secret Life of Pets 
+2016,Film,Teenage Mutant Ninja Turtles: Out of the Shadows 
+2016,Film,X-Men: Apocalypse 
+2016,Game,"The Pokémon Company """"""Train On"""""""
+2016,Phone,"T-Mobile """"""Drop The Balls"""""""
+2016,Phone,"T-Mobile """"""Restricted Bling"""""""
+2016,Toothpaste,"Colgate """"""Every Drop Counts"""""""
+2016,Soft drink,"Mountain Dew Kickstart """"""Puppymonkeybaby"""""""
+2016,Sports,"NFL """"""Super Bowl Babies Choir"""""""
+2017,Beer,"Bud Light """"""Ghost Spuds"""""""
+2017,Beer,"Budweiser """"""Born The Hard Way"""""""
+2017,Beer,"Busch """"""BUSCHHHHH"""""""
+2017,Building materials,"84 Lumber """"""The Journey"""""""
+2017,Car,"Alfa Romeo """"""Dear Predictable"""""""
+2017,Car,"Alfa Romeo """"""Mozzafiato"""""""
+2017,Car,"Alfa Romeo """"""Riding Dragons"""""""
+2017,Car,"Audi """"""Daughter"""""""
+2017,Car,Buick N/A
+2017,Car,"Kia Niro """"""Hero's Journey"""""""
+2017,Car,"Lexus LC """"""Man and Machine"""""""
+2017,Cleaner,"Mr. Clean """"""Cleaner of Your Dreams"""""""
+2017,Film,Baywatch N/A
+2017,Film,The Fate of the Furious N/A
+2017,Film,Ghost in the Shell N/A
+2017,Film,Guardians of the Galaxy Vol. 2 N/A
+2017,Film,"Logan """"""Grace"""""""
+2017,Film,Pirates of the Caribbean: Dead Men Tell No Tales N/A
+2017,Restaurant,"Buffalo Wild Wings """"""The Conspiracy"""""""
+2017,Tax preparation,"TurboTax """"""Humpty Hospital"""""""
+2017,Technology,"Intel """"""Brady Everyday"""""""
+2017,TV series,24: Legacy (Fox) N/A
+2017,TV series,Empire (Fox) N/A
+2017,TV series,Genius (National Geographic) N/A
+2017,TV series,Shots Fired (Fox) N/A
+2017,TV series,Stranger Things (Netflix) N/A
+2017,TV series,"The Handmaid's Tale (Hulu) """"""My Name Is Offred"""""""
+2017,Video games,"Nintendo Switch """"""Switch and Play"""""""
+2017,Website,"Airbnb """"""We Accept"""""""
+2017,Web hosting,"Squarespace """"""Calling JohnMalkovich.com"""""""
+2017,Web hosting,Wix.com N/A
+2017,Wireless,"Sprint """"""No Need For Extreme Measures"""""""
+2017,Wireless,"T-Mobile """"""#BagOfUnlimited"""""""
+2017,Wireless,"T-Mobile """"""#NSFWireless"""""""
+2017,Wireless,"T-Mobile """"""#Punished"""""""
+2017,Wireless,"T-Mobile """"""#UnlimitedMoves"""""""
+2018,Airlines,"Turkish Airlines """"""Five Senses"""""""
+2018,Beer,"Budweiser """"""Stand by You"""""""
+2018,Beer,"Bud Light """"""Ye Olde Pep Talk"""""""
+2018,Beer,"Bud Light """"""The Bud Knight"""""""
+2018,Beer,"Michelob Ultra """"""The Perfect Fit"""""""
+2018,Beer,"Michelob Ultra """"""I Like Beer"""""""
+2018,Candy,"M&M's """"""Human"""""""
+2018,Car,"WeatherTech """"""American Factory"""""""
+2018,Car,"Ram Trucks """"""Built to Serve"""""""
+2018,Car,"Ram 1500 """"""Icelandic Vikings"""""""
+2018,Car,"Hyundai """"""Hope Detector"""""""
+2018,Car,"Jeep Wrangler """"""Anti-Manifesto"""""""
+2018,Car,"Jeep Wrangler Rubicon """"""Jeep Jurassic"""""""
+2018,Car,"Jeep Cherokee """"""The Road"""""""
+2018,Car,"Kia Stinger """"""Feel Something Again"""""""
+2018,Car,Lexus LS 500 F Sport 
+2018,Film, Black Panther
+2018,Car,"Toyota """"""Good Odds"""""""
+2018,Car,"Toyota """"""Mobility Anthem"""""""
+2018,Car,"Toyota """"""One Team"""""""
+2018,Cleaner,"Febreze """"""The Only Man Whose Bleep Doesn't Stink"""""""
+2018,Drink,"Stella Artois and Water.org """"""Taps"""""""
+2018,Film,Avengers: Infinity War N/A
+2018,Film,The Cloverfield Paradox (Netflix) N/A
+2018,Film,Mission: Impossible – Fallout N/A
+2018,Film,A Quiet Place 
+2018,Film,Skyscraper N/A
+2018,Film,Solo: A Star Wars Story N/A
+2018,Food,"Avocados From Mexico """"""#GuacWorld"""""""
+2018,Food,"Jack in the Box """"""Jack vs. Martha"""""""
+2018,Food,"Kraft Foods """"""Family Greatly"""""""
+2018,Food,"Pringles """"""Wow 2018"""""" Bill Hader and other actors remark about stacking different flavored Pringles.[115][140][141]"
+2018,Food,"Wendy's """"""Iceberg"""""""
+2018,Food,"Doritos and Mountain Dew """"""Doritos Blaze vs. Mtn Dew Ice"""""""
+2018,Headphones,Monster N/A
+2018,Investments,"E-Trade """"""This Is Getting Old"""""""
+2018,Laundry detergent,"Persil """"""Game-time Stain-time"""""""
+2018,Laundry detergent,"Tide """"""It's a Tide Ad"""""""
+2018,Laundry detergent,"Tide """"""It's Another Tide Ad"""""""
+2018,Laundry detergent,"Tide """"""It's Yet Another Tide Ad"""""""
+2018,Laundry detergent,"Tide """"""It's Yet Another Tide Ad"
+2018,Loans,"Rocket Mortgage """"""Translator"""""""
+2018,Retail,"Groupon """"""Who Wouldn't"""""""
+2018,Shoes,"Skechers """"""First Class for your Feet"""""""
+2018,Soft drink,"Coca-Cola """"""The Wonder of Us"""""""
+2018,Soft drink,"Diet Coke """"""Groove"""""""
+2018,Soft drink,"Pepsi """"""This Is the Pepsi"""""""
+2018,Sports,"2018 Winter Olympics (NBC) """"""Best of U.S.: Lindsey Vonn"""""""
+2018,Sports,2018 Winter Olympics (NBC) N/A A number of promotions by NBC for their Olympic coverage.
+2018,Sports,"NFL """"""Touchdown Celebrations to Come"""""""
+2018,Sports,"NFL """"""Next Season Starts Now"""""""
+2018,Sports,"2018 FIFA World Cup (Telemundo) """"""Telemundo ya prepara su mejor grito gol para Rusia 2018"""""""
+2018,Tax preparation,"Intuit """"""Giant Skip Ad"""""""
+2018,Tax preparation,"TurboTax """"""The Noise in the Attic"""""""
+2018,Tax preparation,"TurboTax """"""The Thing Under the Bed"""""""
+2018,Technology,"Amazon Echo """"""Alexa Loses Her Voice"""""""
+2018,TV series,Castle Rock (Hulu) N/A
+2018,TV series,Good Girls (NBC) N/A
+2018,TV series,Rise (NBC) N/A
+2018,TV series,This Is Us (NBC) N/A
+2018,TV series,Today (NBC) N/A
+2018,TV series,Tom Clancy's Jack Ryan (Amazon Prime) N/A
+2018,TV series,Unsolved: The Murders of Tupac & the Notorious B.I.G. (USA Network) N/A
+2018,TV series,"The Voice  (NBC) """"""The Voice Super Commercial"""""""
+2018,TV series,Westworld season 2 (HBO) N/A
+2018,TV special,Jesus Christ Superstar Live in Concert (NBC) N/A
+2018,Travel,"Tourism Australia """"""Dundee"""""""
+2018,Travel,"Universal Parks & Resorts """"""In Game""""a.k.a. """"Peyton Manning: Vacation Quarterback"""""""
+2018,Video game,"Heroes Arena """"""Conquer Your Battles"""""""
+2018,Website,"Blacture """"""Be Celebrated"""""""
+2018,Website,"Squarespace """"""Make It With Keanu Reeves"""""""
+2018,Website,"Wix.com """"""Rhett & Link"""""""
+2018,Wireless,"Sprint """"""Evelyn"""""""
+2018,Wireless,"Verizon Wireless """"""Remember the First Responders"""""""
+2018,Wireless,"Verizon Wireless """"""Answering the Call"""""""
+2018,Wireless,"T-Mobile """"""Little Ones"""""""
+2019,Alcohol,"Bon & Viv Spiked Seltzer """"""The Pitch"""""""
+2019,Alcohol,"Bud Light """"""Special Delivery"""""""
+2019,Alcohol,Bud Light  Game of Thrones
+2019,TV series, Game of Thrones
+2019,Alcohol,"Budweiser """"""Wind Never Felt Better"""""""
+2019,Alcohol,"Hennessy """"""Major"""""""
+2019,Alcohol,"Michelob Ultra """"""Robots"""""""
+2019,Alcohol,"Michelob Ultra Pure Gold """"""The Pure Experience"""""""
+2019,Alcohol,"Stella Artois """"""Change Up the Usual"""""""
+2019,Beverage,"Bubly sparkling water """"""Bublé vs. Bubly"""""""
+2019,Beverage,"Pepsi """"""More Than OK"""""""
+2019,Candy,"M&M's Chocolate Bar """"""Bad Passenger"""""""
+2019,Car,"Audi e-tron GT """"""Cashew"""""""
+2019,Car,"Hyundai Shopper Assurance """"""The Elevator"""""""
+2019,Car,"Kia Telluride """"""Give It Everything"""""""
+2019,Car,"Mercedes-Benz A-Class """"""Say The Word"""""""
+2019,Car,"Toyota RAV4 Hybrid """"""Toni"""""""
+2019,Car,"Toyota Supra """"""Wizard"""""""
+2019,Film,Alita: Battle Angel N/A
+2019,Film,Avengers: Endgame N/A
+2019,Film,Captain Marvel N/A
+2019,Film,Hobbs & Shaw N/A
+2019,Film,Scary Stories to Tell in the Dark N/A
+2019,Film,Toy Story 4 N/A
+2019,Film,Us N/A
+2019,Film,Wonder Park N/A
+2019,Food,"Avocados from Mexico """"""Top Dog"""""""
+2019,Food,"Burger King """"""#EatLikeAndy"""""""
+2019,Food,"Flamin' Hot Doritos """"""Now It's Hot"""""""
+2019,Food,"Pringles """"""Sad Device"""""""
+2019,Smart speaker,"Amazon Echo """"""Not Everything Makes the Cut"""""""
+2019,NFL,"NFL centennial season """"""The 100-Year Game"""""""
+2019,Store,"Walmart Grocery Pickup """"""Famous Cars"""""""
+2019,TV series,The Handmaid's Tale season 3 (Hulu) N/A
+2019,TV series,Hanna (Amazon Video) N/A
+2019,TV series,The Late Show with Stephen Colbert (CBS) N/A
+2019,TV series,The Twilight Zone (CBS All Access) N/A
+2019,Video gaming,"Xbox Adaptive Controller """"""We All Win"""""""
+2019,Wireless,"T-Mobile """"""Dad?!"""""""
+2019,Wireless,T-Mobile 
+2019,Wireless,"T-Mobile """"""We'll Keep This Brief"""""""
+2019,Wireless,"T-Mobile """"""What's for Dinner?"""""""
+2020,Beer,"Presidente """"""Never Left"""""" ""Features Alex Rodriguez"
+2020,Car,"Audi e-tron Sportback """"""Let it Go"""""" ""Maisie Williams is stuck in a traffic jam surrounded by old vehicles. Singing """"Let It Go"""""
+2020,Car,"Hyundai Sonata """"""Smaht Pahk"""""" ""John Krasinski demonstrates the new """"Remote Smart Parking Assist"""" feature of his Hyundai Sonata"
+2020,Car,"Genesis GV80 """"""Going Away Party"""""" ""Chrissy Teigen throws a """"going-away party"""" for """"old luxury"""""
+2020,Car,"GMC Hummer EV """"""Quiet Revolution"""""" ""Several scenes teasing aspects of the electric truck are followed by similar scenes in absolute silence"
+2020,Car,"Jeep """"""Groundhog Day"""""" ""Groundhog Day commercial featuring Bill Murray as his character for the movie"
+2020,Car,"Kia Seltos """"""Tough Never Quits"""""" ""Rookie Josh Jacobs returns to his hometown of Tulsa"
+2020,Car,"Toyota Highlander """"""Heroes"""""" ""Driving a Toyota Highlander"
+2020,Car,"Porsche Taycan """"""The Heist"""""" ""Security professionals are alerted when the Porsche Taycan is stolen from an exhibit at the Porsche museum"
+2020,Film,F9  Trailer
+2020,Film,The Invisible Man  Trailer
+2020,Film,Mulan  Trailer
+2020,Food,"Doritos """"""The Cool Ranch"""""" ""Lil Nas X and Sam Elliott participate in a dance showdown to """"Old Town Road"""".[228]"""
+2020,Food,"Planters """"""Tribute"""""" ""Following his death in a previous ad"
+2020,Food,"Pop-Tarts Pretzel """"""Pop-Tarts Fixed the Pretzel"""""" ""Jonathan Van Ness serves as spokesperson for Pop-Tarts Pretzel"
+2020,Food,Pringles
+2020,Website,"Facebook  ""Facebook groups """"Ready to Rock"""" featuring different groups with the word rock in it. Surprisingly featuring Chris Rock and Sylvester Stallone known for his character Rocky Balboa in it."""
+2020,TV series,Rick and Morty
